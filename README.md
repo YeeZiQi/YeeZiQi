@@ -1,219 +1,191 @@
-
-<!--
-==========================================================
-  GITHUB PROFILE README
-  Replace all [PLACEHOLDER] values with your information.
-==========================================================
--->
-
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123B70,100:00C9DB&height=200&section=header&text=Hello,%20World!&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,50:123B70,100:00C9DB&height=200&section=header&text=YEE%20ZI%20QI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20%26%20SECURITY%20%7C%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15" />
 
-# Hi there, I'm [YOUR NAME] 👋
+👋 Hello, I'm Yee Zi Qi
+🎓 Computer Science Student @ Universiti Teknologi Malaysia
 
-### 🎓 Computer Science Student | Network & Security Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C9DB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UTM;Aspiring+Network+%26+Security+Professional;Learning+Java+%7C+Python+%7C+C%2B%2B;Exploring+Cybersecurity+%26+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00C9DB&center=true&vCenter=true&width=650&lines=Aspiring+Cybersecurity+Professional;Network+%26+Security+Enthusiast;Exploring+Penetration+Testing;Interested+in+Digital+Forensics;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/[YOUR-USERNAME]">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20Views&color=00C9DB&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/YeeZiQi">
+<img src="https://komarev.com/ghpvc/?username=YeeZiQi&label=PROFILE+VIEWS&color=00C9DB&style=for-the-badge" alt="Profile views"/>
 </a>
-<a href="https://github.com/[YOUR-USERNAME]?tab=followers">
-  <img src="https://img.shields.io/github/followers/[YOUR-USERNAME]?label=Followers&style=flat-square&color=123B70" alt="Followers" />
-</a>
-
-<br/><br/>
-
-**Building my knowledge, one line of code at a time.**
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **[YOUR NAME]**, a Computer Science undergraduate at **Universiti Teknologi Malaysia (UTM)**, Johor, pursuing a **Bachelor of Computer Science (Network and Security)**.
-
-I'm passionate about technology, programming, computer networks, and cybersecurity. I enjoy exploring how software and computer systems work, developing my technical abilities, and continuously learning new technologies.
-
-Currently, I'm strengthening my programming fundamentals while exploring the fascinating world of network infrastructure and information security.
-
-- 🎓 **Education:** Bachelor of Computer Science (Network and Security)
-- 🏛️ **University:** Universiti Teknologi Malaysia (UTM)
-- 📍 **Location:** Johor, Malaysia
-- 💻 **Programming:** Java, Python, C++
-- 📚 **Currently Learning:** C++
-- 🔐 **Interests:** Cybersecurity, Computer Networks, Network Security
-- 🚀 **Goal:** To grow into a skilled technology professional and contribute to meaningful projects.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" />
-
-</div>
-
-| Technology | Current Experience |
-|:---|:---|
-| Java ☕ | Basic knowledge |
-| Python 🐍 | Basic knowledge |
-| C++ 💻 | Currently learning |
-
-### Areas of Interest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Computer%20Networking-123B70?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-0B1020?style=for-the-badge&logo=hackthebox&logoColor=00C9DB" />
-<img src="https://img.shields.io/badge/Network%20Security-123B70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Development-0B1020?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
-### Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" />
-
-</div>
-
-*Tools and platforms are areas to explore; add or remove icons according to your actual experience.*
-
----
-
-## 🔬 Research Interests
-
-I'm interested in developing my knowledge and exploring research opportunities in:
-
-- 🔐 **Cybersecurity** — Understanding digital threats, security principles, and defensive techniques.
-- 🌐 **Computer Networks** — Exploring network architecture, protocols, and communication systems.
-- 🛡️ **Network Security** — Learning how to protect networks and secure digital infrastructure.
-- 🔍 **Information Security** — Exploring confidentiality, integrity, and availability.
-- 💻 **Programming & Algorithms** — Strengthening problem-solving and software development skills.
-
----
-
-## 🚀 Featured Projects
-
-*A collection of my academic, personal, and programming projects.*
-
-<div align="center">
-
-<a href="https://github.com/[YOUR-USERNAME]/[PROJECT-1]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR-USERNAME]&repo=[PROJECT-1]&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/[YOUR-USERNAME]/[PROJECT-2]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR-USERNAME]&repo=[PROJECT-2]&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 📌 More Projects
-
-| Project | Description | Technology |
-|:---|:---|:---|
-| [Project 1] | [Brief project description] | [Java/Python/C++] |
-| [Project 2] | [Brief project description] | [Technology] |
-| [Project 3] | [Brief project description] | [Technology] |
-
-> Replace these placeholders with your actual GitHub repositories. Remove unused project entries.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-### Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&bg_color=0B1020&color=00C9DB&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-I'm continuously working on improving my technical knowledge and building practical experience.
-
-**Achievements**
-- [Add academic achievements]
-- [Add programming competition participation]
-- [Add completed technical projects]
-
-**Certifications**
-- [Certification Name] — [Issuing Organization]
-- [Certification Name] — [Issuing Organization]
-
-*Only list achievements and certifications you have actually earned.*
-
----
-
-## 🎯 Current Goals
-
-- [ ] Strengthen my C++ programming fundamentals.
-- [ ] Improve problem-solving and algorithmic thinking.
-- [ ] Build practical programming projects.
-- [ ] Develop a deeper understanding of computer networks.
-- [ ] Explore cybersecurity and network security concepts.
-- [ ] Contribute to open-source projects.
-- [ ] Build a strong technical portfolio.
-
----
-
-## 📫 Let's Connect!
-
-I'm always interested in connecting with fellow students, developers, technology enthusiasts, and professionals.
-
-<div align="center">
-
-<a href="https://github.com/[YOUR-USERNAME]">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:[YOUR-EMAIL]">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/YeeZiQi?tab=followers">
+<img src="https://img.shields.io/github/followers/YeeZiQi?label=FOLLOWERS&style=for-the-badge&color=123B70&logo=github" alt="GitHub followers"/>
 </a>
 
 <br/><br/>
 
-**Feel free to explore my repositories and follow my learning journey!**
+Passionate about technology. Curious about security. Committed to continuous learning.
 
 </div>
 
----
+👨‍💻 About Me
+
+Hi! I'm Yee Zi Qi, a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), Johor, pursuing a Bachelor of Computer Science (Network and Security).
+
+I have a growing interest in cybersecurity, computer networking, and information security. I'm passionate about understanding how computer systems communicate, how networks operate, and how digital environments can be protected against security threats.
+
+My programming journey started with learning the fundamentals of Java and Python. Currently, I'm expanding my programming knowledge by learning C++ as part of my academic journey at UTM.
+
+I'm continuously developing my technical knowledge, strengthening my problem-solving abilities, and looking forward to gaining practical experience through academic and personal projects.
+
+Quick Overview
+🎓 Education: Bachelor of Computer Science (Network and Security)
+🏛️ University: Universiti Teknologi Malaysia (UTM)
+📍 Location: Johor, Malaysia 🇲🇾
+💻 Programming Languages: Java, Python, C++
+🌱 Currently Learning: C++
+🔐 Main Interests: Cybersecurity and Network Security
+🔎 Exploring: Penetration Testing and Digital Forensics
+🎯 Career Goal: Cybersecurity / Network Security Professional
+🛠️ Technical Skills
+Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" alt="Programming languages"/>
+</p>
+
+Language	Experience
+☕ Java	Basic knowledge
+🐍 Python	Basic knowledge
+💻 C++	Currently learning
+Technologies & Areas of Interest
+
+<p align="left">
+<img src="https://img.shields.io/badge/Cybersecurity-0B1020?style=for-the-badge&logo=hackthebox&logoColor=00C9DB"/>
+<img src="https://img.shields.io/badge/Network%20Security-123B70?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Networking-0B1020?style=for-the-badge&logo=cloudflare&logoColor=00C9DB"/>
+<img src="https://img.shields.io/badge/Penetration%20Testing-123B70?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital%20Forensics-0B1020?style=for-the-badge&logo=files&logoColor=00C9DB"/>
+</p>
+
+Development Environment & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" alt="Development tools and platforms"/>
+</p>
+
+🔬 Research Interests
+
+I'm particularly interested in exploring the following areas within computer science and information security.
+
+Research Area	Interest
+🔐 Cybersecurity	Understanding cybersecurity principles, threats, and defensive security practices.
+🌐 Computer Networking	Exploring network architectures, communication protocols, and infrastructure.
+🛡️ Network Security	Understanding network vulnerabilities and methods of protecting network systems.
+🔎 Penetration Testing	Learning authorized security assessment and vulnerability identification.
+🕵️ Digital Forensics	Exploring digital evidence identification, preservation, and investigation.
+
+I hope to develop deeper knowledge in these fields through academic study, practical exercises, and hands-on projects.
+
+🚀 Featured Projects
+💻 PC Assemble
+
+<a href="https://github.com/YeeZiQi/professional-development-portfolio/tree/main/PC_assemble">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C9DB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+Repository: professional-development-portfolio / PC_assemble
+
+An academic/personal project repository that forms part of my professional development portfolio.
+
+Explore the PC Assemble project →
+
+More project details and technologies can be added as the repository develops.
+
+🌱 More Projects Coming Soon
+
+I'm looking forward to building more projects to strengthen my programming, networking, and cybersecurity knowledge.
+
+📊 GitHub Statistics
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+GitHub Overview
 
-*"Great things are built one step at a time. Keep learning, keep building, and keep growing."*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YeeZiQi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Yee Zi Qi GitHub Statistics"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9DB,50:123B70,100:0B1020&height=120&section=footer" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeeZiQi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
+
+<br/><br/>
+
+Contribution Streak
+
+<img width="65%" src="https://streak-stats.demolab.com?user=YeeZiQi&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9DB&fire=3B82F6&currStreakLabel=00C9DB" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YeeZiQi&bg_color=0D1117&color=00C9DB&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Graph"/>
+
+</div>
+
+🏆 Achievements & Certifications
+
+I believe in continuous learning and gradually developing the skills needed to become a cybersecurity professional.
+
+Academic & Technical Achievements
+
+Currently pursuing a Bachelor of Computer Science (Network and Security) at UTM.
+Developing programming knowledge in Java, Python, and C++.
+
+Certifications
+
+Certifications will be added here as I complete relevant courses and professional training.
+
+🎯 Current Learning Goals
+
+My current focus is to build a strong foundation in computer science and gradually expand my cybersecurity expertise.
+
+Strengthen C++ programming fundamentals.
+Improve Java and Python programming skills.
+Develop stronger problem-solving and algorithmic thinking.
+Deepen my understanding of computer networking.
+Learn cybersecurity fundamentals and defensive security practices.
+Explore penetration testing in authorized lab environments.
+Develop knowledge of digital forensics.
+Build more practical programming and security-related projects.
+Continue developing my GitHub portfolio.
+📫 Connect With Me
+
+I'm always happy to connect with fellow students, developers, cybersecurity enthusiasts, and technology professionals.
+
+<div align="center">
+
+<a href="https://github.com/YeeZiQi">
+<img src="https://img.shields.io/badge/GitHub-YeeZiQi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zi-qi-yee-5349ab445/">
+<img src="https://img.shields.io/badge/LinkedIn-Yee%20Zi%20Qi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:yeeziqi73@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+Let's connect, learn, and grow together!
+
+</div>
+
+<div align="center">
+
+💙 Thank You for Visiting My Profile!
+
+“The journey of becoming an expert begins with the willingness to keep learning.”
+
+<br/>
+
+Yee Zi Qi | Computer Science (Network and Security)
+
+Universiti Teknologi Malaysia 🇲🇾
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9DB,50:123B70,100:080D1B&height=120&section=footer" alt="Footer banner"/>
 
 </div>
