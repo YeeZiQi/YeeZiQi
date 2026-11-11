@@ -1,15 +1,26 @@
 <div align="center">
 
+<h1>
+  <span>✦</span> YEE ZI QI <span>✦</span>
+</h1>
+
 <img
-  src="https://capsule-render.vercel.app/api?type=wave&color=0:080D1B,50:123B70,100:00C9DB&height=200&section=header&text=YEE%20ZI%20QI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20AND%20SECURITY&descAlignY=60&descSize=15"
-  width="100%"
-  alt="Yee Zi Qi - Network and Security"
- />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00C9DB&center=true&vCenter=true&width=700&height=45&lines=Aspiring+Cybersecurity+%26+Network+Security+Professional"
+  alt="Animated Introduction"
+/>
+
+</div>
+
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/UTM-Universiti%20Teknologi%20Malaysia-123B70?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+</div>
+
+</div>
 
 👋 Hello, I'm Yee Zi Qi
 🎓 Computer Science Student @ Universiti Teknologi Malaysia
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00C9DB&center=true&vCenter=true&width=650&lines=Aspiring+Cybersecurity+Professional;Network+%26+Security+Enthusiast;Exploring+Penetration+Testing;Interested+in+Digital+Forensics;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 <br/>
 
