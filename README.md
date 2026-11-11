@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,50:123B70,100:00C9DB&height=200&section=header&text=YEE%20ZI%20QI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20%26%20SECURITY%20%7C%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15" />
+<img
+  src="https://capsule-render.vercel.app/api?type=wave&color=0:080D1B,50:123B70,100:00C9DB&height=200&section=header&text=YEE%20ZI%20QI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20AND%20SECURITY&descAlignY=60&descSize=15"
+  width="100%"
+  alt="Yee Zi Qi - Network and Security"
+ />
 
 👋 Hello, I'm Yee Zi Qi
 🎓 Computer Science Student @ Universiti Teknologi Malaysia
